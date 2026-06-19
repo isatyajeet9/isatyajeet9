@@ -4,7 +4,7 @@
 MCA '27 @ ITER, SOA • React · Next.js · Node.js • building scalable web apps & ai-powered tools
 
 find me at [linkedin](https://www.linkedin.com/in/isatyajeet9/) or [x (twitter)](https://x.com/isatyajeet9)  
-### tldr
+### tl;dr
 * Google Cloud Arcade Legend Tier 🏆
 * 1st Place — Google DevFest Bhubaneswar, Cloud Track Codelab (Nov 2025)
 * 3rd Place — MayaVyuh: The Prompt War (Team Lead)
@@ -13,7 +13,7 @@ find me at [linkedin](https://www.linkedin.com/in/isatyajeet9/) or [x (twitter)]
 * HackerRank — Frontend Developer (React) Role Certified
 * Claude with Google Cloud's Vertex AI — Anthropic Certified
 ### some recent work highlights
-* 
+* Currently working on a few exciting projects. Updates coming soon
 ### worked with
 <div align="center">
   <table>
@@ -50,13 +50,17 @@ find me at [linkedin](https://www.linkedin.com/in/isatyajeet9/) or [x (twitter)]
   </table>
 </div>
 
-### overview
+### current focus
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isatyajeet9&show_icons=true&theme=dark&count_private=true&&hide_border=true&include_all_commits=true&custom_title=my%20github%20stats&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=React+%7C+Next.js+%7C+Node.js;Building+MERN+Stack+Projects;Integrating+AI+into+Real+Products;Exploring+Google+Cloud+Services;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </div>
----
+
+### let's connect
+
 <div align="center">
-  
-📬 **satyajeetnayak58 [at] gmail [dot] com** · dms preferred  
+
+📬 **satyajeetnayak58 [at] gmail [dot] com**
+
 open to internships, collaborations, and interesting projects.
+
 </div>
